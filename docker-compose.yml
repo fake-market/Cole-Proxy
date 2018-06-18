@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: npm start
+    image: randomlylostperson/proxyserver:latest
+    ports:
+      - "2222:2222"
