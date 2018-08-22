@@ -1,6 +1,6 @@
 # Cole-Proxy
 
-My Front End Capstone project for HRLA22. This is my proxy server which mimics Ebays product page. Each person on our team made their own micro-service is altogether through this proxy server.
+My Front End Capstone project for HRLA22. This is my proxy server which mimics Ebays product page. Each person on our team made their own microservice is altogether through this proxy server.
 
 Each microservice will no longer render as they were being hosted on AWS instances which have since been turned off.
 
