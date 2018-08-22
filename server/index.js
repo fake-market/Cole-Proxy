@@ -1,7 +1,7 @@
 const express = require("express");
 const proxy = express();
 const path = require("path");
-const PORT = 2222;
+const PORT = 3000;
 const bodyParser = require("body-parser");
 
 proxy.use(bodyParser.json());
